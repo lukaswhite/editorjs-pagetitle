@@ -19,11 +19,7 @@ See [this currently open issue](https://github.com/codex-team/editor.js/issues/1
 
 ### Install via NPM
 
-Get the package
-
-```shell
-npm i --save @editorjs/header
-```
+todo
 
 Include module at your application
 
